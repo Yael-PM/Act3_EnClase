@@ -10,7 +10,7 @@ double resta(double a, double b){
     return a-b;
 }
 
-double multiplicaion(double a, double b){
+double multiplicacion(double a, double b){
     return a*b;
 }
 

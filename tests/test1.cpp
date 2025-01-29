@@ -7,7 +7,7 @@ using namespace std;
 void tests() {
   assert(suma(5, 5) == 10.0);
   assert(resta(5, 5) == 0.0);
-  assert(multiplicaion(5, 5) == 25.0);
+  assert(multiplicacion(5, 5) == 25.0);
   assert(dividir(5, 5) == 1.0);
 }
 
