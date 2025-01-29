@@ -31,10 +31,12 @@ jobs:
 
         - name: Run test1
           run: |
-            g++ -o test1 tests/test1.cpp
+            g++ tests/test1.cpp -o tests/test1
+            chmod +x tests/test1
             ./tests/test1
 
         - name: Run test2
           run: |
-            g++ -o test2 tests/test2.cpp
+            g++ tests/test2.cpp -o tests/test2
+            chmod +x tests/test2
             ./tests/test2
