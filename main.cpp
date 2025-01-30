@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include "MyMathLib.h"
 #include "MyBasicOps.h"
@@ -6,7 +7,7 @@
 int main()
 {
     std::cout << "Hello World!\n";
-    std::cout << "Sqrt(9) = " << mySqrt(9) << '\n';
+    std::cout << "Sqrt(9) = " << my_Sqrt(9) << '\n';
     std::cout << "suma(5, 5) = " << suma(5, 5) << '\n';
     std::cout << "resta(5, 5) = " << resta(5, 5) << '\n';
     std::cout << "multiplicacion(5, 5) = " << multiplicacion(5, 5) << '\n';

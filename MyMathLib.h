@@ -1,11 +1,13 @@
+
 #include <math.h>
 #include <stdexcept>
 
-double mySqrt(double x)
+// Función para sacar raíz cuadrada
+double my_Sqrt(double x)
 {
 	if (x < 0)
 	{
-		throw std::runtime_error("Negative argument");
+        throw std::runtime_error("Negative argument");
 	}
-	return sqrt(x);
+    return sqrt(x);
 }
