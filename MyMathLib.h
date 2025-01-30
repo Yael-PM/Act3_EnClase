@@ -2,8 +2,12 @@
 #include <math.h>
 #include <stdexcept>
 
-// Función para sacar raíz cuadrada
-double my_Sqrt(double x)
+/**
+* Función para sacar la raíz cuadrada
+* @param x es un número double
+* @return la raíz cuadrada del número
+*/
+double my_sqrt(double x)
 {
 	if (x < 0)
 	{
