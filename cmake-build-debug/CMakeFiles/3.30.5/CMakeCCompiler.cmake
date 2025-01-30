@@ -1,3 +1,4 @@
+
 set(CMAKE_C_COMPILER "Y:/CLION/CLion 2024.3.1.1/bin/mingw/bin/gcc.exe")
 set(CMAKE_C_COMPILER_ARG1 "")
 set(CMAKE_C_COMPILER_ID "GNU")

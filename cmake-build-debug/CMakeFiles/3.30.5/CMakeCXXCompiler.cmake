@@ -1,3 +1,4 @@
+
 set(CMAKE_CXX_COMPILER "Y:/CLION/CLion 2024.3.1.1/bin/mingw/bin/g++.exe")
 set(CMAKE_CXX_COMPILER_ARG1 "")
 set(CMAKE_CXX_COMPILER_ID "GNU")
